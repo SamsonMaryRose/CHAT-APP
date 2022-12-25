@@ -7,7 +7,7 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
-  "author": "Jordan Gutlay",
+  "author": "Maryrose Samson ",
   "license": "ISC",
   "dependencies": {
     "bad-words": "^3.0.0",
